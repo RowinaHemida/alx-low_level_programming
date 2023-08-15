@@ -5,13 +5,12 @@
  */
 int main(void)
 {
-	char c[] = "Holberton";
-	int i;
+	char *h = "Holberton\n";
 
-	for (i = 0; i < 9; i++)
+	while (*h)
 	{
-		_putchar(c[i]);
+		_putchar(*h);
+		h++;
 	}
-	_putchar('\n');
 	return (0);
 }

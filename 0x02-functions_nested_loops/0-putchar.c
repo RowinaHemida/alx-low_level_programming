@@ -1,6 +1,7 @@
 #include "holberton.h"
 /**
- * main 
+ * main
+ * Return: 0 on success.
  */
 int main(void)
 {

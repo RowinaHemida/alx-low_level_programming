@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main
  * return: Alwyas 0
@@ -15,5 +16,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
+
 	return(0);
 }

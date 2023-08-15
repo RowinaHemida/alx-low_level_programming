@@ -1,7 +1,9 @@
 #include "holberton.h"
 /**
- * print_alphabet - prints the english alphabet from a-z.
- * Return: Nothing.
+ * print_alphabet - wirte the the lower-case alphabet on a line.
+ *
+ *
+ *
  */
 void print_alphabet(void)
 {
